@@ -1,0 +1,68 @@
+/* fonts links */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+/* header related styles */
+
+*{
+    margin: 0;
+}
+
+.my-suka {
+    color: #272727;
+font-family: 'Lato';
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 32px;
+}
+
+.my-shuka {
+    color: rgba(39, 39, 39, 0.60);
+font-family: 'Lato';
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+margin-bottom: 32px;
+}
+
+.btn-primary {
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-family: 'Lato';
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border: 0;
+}
+
+.banner {
+    display :flex;
+    align-items: center;
+    padding: 50px 0px 0 240px;
+    background: #E554731A;
+}
+
+.left {
+    display: block;
+    margin-right: 200px;
+}
+ .indur {
+    color: #272727;
+text-align: center;
+font-family: 'Lato';
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-top: 178px;
+text-align: center;
+ }
