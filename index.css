@@ -2,6 +2,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
 /* header related styles */
 
 *{
@@ -157,4 +159,94 @@ margin-top: 24px;
     padding: 131px 150px 131px 150px;
 }
 
+.hot-deal-title {
+    color: #272727;
+font-family: 'Lato';
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 24px;
+}
 
+.choto-ongsho {
+    color: #E55473;
+font-family: 'Lato';
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.hot-deal-description {
+    color: rgba(39, 39, 39, 0.60);
+font-family: 'Lato';
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+margin-bottom: 32px;
+}
+
+.btn-primary-hot-deal {
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-family: 'Lato';
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding: 20px 43px 20px 43px;
+border: 0;
+}
+
+.hot-deal-container {
+    display: flex;
+    width: 1922px;
+    height: 360px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    align-items: center;
+    padding: 100px 400px 100px 350px;
+    gap: 216px;
+}
+
+.section-three{
+    margin-top: 100px;
+    margin-bottom: 131px;
+}
+
+.section-four-title {
+    color: #272727;
+text-align: center;
+font-family: 'Lato';
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 24px;
+}
+
+.section-four-description { 
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: 'Lato';
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+}
+
+.instagram-img-container {
+display: flex;
+padding: 48px 240px 128px 240px;
+justify-content: space-between;
+}
+
+.img-instagram {
+    width: 342px;
+height: 396px;
+border-radius: 10px;
+}
